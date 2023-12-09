@@ -1,6 +1,6 @@
 # Projeto Restaurante :spaghetti: :pizza:
 
-**Se trata de um site responsivo, fictício e personalizável, voltado para um restaurante, contendo nele um menu responsivo(menu sanduiche), slide de fotos e etc.**
+**Se trata de um site responsivo feito durante o curso da EBAC, fictício e personalizável, voltado para um restaurante, contendo nele um menu responsivo(menu sanduiche), slide de fotos e etc.**
 **Foi usado:**
 1. **Boostrap**
 2. **CSS**
